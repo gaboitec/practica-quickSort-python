@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0892842b-f918-4cb7-92f4-0e0f770f6990" name="Changes" comment="quick sort con lista de nombres">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0892842b-f918-4cb7-92f4-0e0f770f6990" name="Changes" comment="quick sort con diccionarios de nombres y id">
       <change beforePath="$PROJECT_DIR$/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +49,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.main.executor": "Run",
+    "Python.main2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -87,12 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1754356980919</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="quick sort con diccionarios de nombres y id">
+      <option name="closed" value="true" />
+      <created>1754357845051</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754357845051</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 comit" />
     <MESSAGE value="quick sort con lista de nombres" />
-    <option name="LAST_COMMIT_MESSAGE" value="quick sort con lista de nombres" />
+    <MESSAGE value="quick sort con diccionarios de nombres y id" />
+    <option name="LAST_COMMIT_MESSAGE" value="quick sort con diccionarios de nombres y id" />
   </component>
 </project>

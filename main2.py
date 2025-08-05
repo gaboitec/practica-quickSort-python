@@ -20,5 +20,6 @@ for i in range(cantidad):
 
 personas_ordenadas = quick_sort_dict(personas)
 print("\nEstudiantes ordenados alfabéticamente por nombre:")
-for id_est, nombre in personas_ordenadas.items():
-    print(f"{nombre} (ID: {id_est})")
+for id, nombre in personas_ordenadas.items():
+    print(f"{nombre} (ID: {id})")
+
